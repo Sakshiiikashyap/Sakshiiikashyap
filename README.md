@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Sakshi Kashyap
 
-<!--
-**Sakshiiikashyap/Sakshiiikashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech student and a passionate web developer currently learning **C++** and **Data Structures & Algorithms**.
 
-Here are some ideas to get you started:
+💡 I love solving problems, building cool web applications, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently focused on:
+- Mastering **DSA in C++**
+- Learning **Java**
+- Enhancing my skills in **web development**
+
+
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/sakshi-kashyap-45bab3287/) • [GitHub](https://github.com/Sakshiiikashyap) • [Email Me](sakshiiikashyap50@gmail.com)
+
+---
+
+> “Consistency is the key to success – one step at a time!”
+
