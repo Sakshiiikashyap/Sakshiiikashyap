@@ -11,7 +11,7 @@
 
 
 📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/sakshi-kashyap-45bab3287/) • [GitHub](https://github.com/Sakshiiikashyap) • [Email Me](sakshiiikashyap50@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sakshi-kashyap-45bab3287/) • [GitHub](https://github.com/Sakshiiikashyap) • [Email Me](https://sakshiiikashyap50@gmail.com)
 
 ---
 
