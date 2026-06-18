@@ -78,37 +78,9 @@
 
 ---
 
-## 📊 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshiiikashyap\&theme=tokyo-night)
-
----
-
 ## ✨ GitHub Streak Highlight
 
 🔥 Consistency matters more than intensity — keep building daily.
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI Analytics Copilot
-
-AI-powered analytics platform for dashboards, forecasting, anomaly detection, and insights.
-
-### 📝 QuickPaste
-
-A React-based note management tool for quick and efficient storage of snippets.
-
-### 🔬 AI Research Project (DRDO Inspired Work)
-
-ML vs Symbolic AI comparison for feasibility analysis in defence automation systems.
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Sakshiiikashyap\&color=blue)
 
 ---
 
