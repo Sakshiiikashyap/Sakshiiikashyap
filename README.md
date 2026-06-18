@@ -73,17 +73,9 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshiiikashyap\&show_icons=true\&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakshiiikashyap\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshiiikashyap\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sakshiiikashyap\&theme=tokyonight\&margin-w=15)
 
 ---
 
