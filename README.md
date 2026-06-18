@@ -20,7 +20,6 @@
 
   * Machine Learning
   * Natural Language Processing (NLP)
-  * Deep Learning (DL)
 * 🧠 Skilled in:
 
   * Prompt Engineering
